@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVidsAnJtfnfI+SDz3qaAe0O77Rz6q4EGIjCAjbbSBMcF2kvNMP5FXnDDVZ+t8RCJZt6QNLCxBFqJXTgnjTITQ==",
+  "success": true,
+  "projectFilePath": "C:\\git\\ShutdownTimer\\src\\WraithNath.ShutdownTimer\\WraithNath.ShutdownTimer\\WraithNath.ShutdownTimer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nathan.fs\\.nuget\\packages\\darkui\\2.0.2\\darkui.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

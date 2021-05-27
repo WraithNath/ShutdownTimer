@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DarkUI/2.0.2": {
+        "runtime": {
+          "lib/DarkUI.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DarkUI/2.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ap27CZYnE0ShZZl2SWk95kowf1n72PjEZhuMW4WWGR/ETw8SBOU/ZHSbKOMON4D9sIiQQc/A8j1JRaBEEb3+LQ==",
+      "path": "darkui/2.0.2",
+      "hashPath": "darkui.2.0.2.nupkg.sha512"
+    }
+  }
+}

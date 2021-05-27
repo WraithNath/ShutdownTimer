@@ -1,0 +1,13 @@
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\obj\Debug\net451\WraithNath.ShutdownTimer.csprojAssemblyReference.cache
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\obj\Debug\net451\WraithNath.ShutdownTimer.csproj.GenerateResource.cache
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\obj\Debug\net451\WraithNath.ShutdownTimer.AssemblyInfoInputs.cache
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\obj\Debug\net451\WraithNath.ShutdownTimer.AssemblyInfo.cs
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\obj\Debug\net451\WraithNath.ShutdownTimer.csproj.CoreCompileInputs.cache
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\bin\Debug\net451\WraithNath.ShutdownTimer.exe.config
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\bin\Debug\net451\WraithNath.ShutdownTimer.exe
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\bin\Debug\net451\WraithNath.ShutdownTimer.pdb
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\bin\Debug\net451\DarkUI.dll
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\obj\Debug\net451\WraithNath.ShutdownTimer.csproj.CopyComplete
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\obj\Debug\net451\WraithNath.ShutdownTimer.exe
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\obj\Debug\net451\WraithNath.ShutdownTimer.pdb
+C:\git\ShutdownTimer\src\WraithNath.ShutdownTimer\WraithNath.ShutdownTimer\obj\Debug\net451\WraithNath.ShutdownTimer.frmShutdown.resources
